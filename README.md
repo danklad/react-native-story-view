@@ -78,13 +78,15 @@ jcenter() {
 
 ---
 
-  <table>
+ <!-- <table>
     <tr>
       <td><a href="https://github.com/SimformSolutionsPvtLtd/react-native-story-view"><img width="300" alt="SimformSolutions" src="./assets/StoryView.gif"></a></td>
       <td><a href="https://github.com/SimformSolutionsPvtLtd/react-native-story-view"><img width="300" alt="SimformSolutions" src="./assets/SingleStory.gif"></a>
      </td>
     </tr>
   </table>
+this is commented
+-->
 
 ---
 
